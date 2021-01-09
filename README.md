@@ -68,3 +68,4 @@ Multi-branch scan trigger 1
 Multi-branch scan trigger 2
 Multi-branch scan trigger 3
 Multi-branch scan trigger 4# greetings-microservice-repo
+Testing GitHub and Jenkins integration
